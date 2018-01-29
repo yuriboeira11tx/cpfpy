@@ -18,7 +18,7 @@ try:
 \033[01;34m2)\033[00;00m Gerar CPF
 \033[01;31m3)\033[00;00m Sair
 \033[00;00m''')
-			opc = input("\033[01;35mCPFPy>>>\033[00;00m ")
+			opc = input("\033[01;35mCPFPy>\033[00;00m ")
 
 			if(int(opc) == 1):
 				ge = input("\033[01;34m[+]\033[00;00m Digite um CPF: ")
